@@ -4,4 +4,5 @@ const data = fetch('current-loans.json')
         return data
     });
 
-console.log(data)
+console.
+    log(data)
