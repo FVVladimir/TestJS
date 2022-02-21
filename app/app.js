@@ -1,6 +1,7 @@
 const link = 'current-loans.json';
 let invest;
 
+
 fetch(link)
     .then(response => response.json())
     .then(data => {
